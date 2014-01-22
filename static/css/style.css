@@ -1,0 +1,19 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+form {
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    top: 0px;
+}
+
+form input[type="text"] {
+    width: 50em;
+}
+
+canvas {
+    display: block;
+}
